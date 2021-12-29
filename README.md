@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rexgdma
+- 👋 Hi, I’m @rexgdma.
 i am a software enginner from chain, I belive that Technology can make life better.
 <!---
 rexgdma/rexgdma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
